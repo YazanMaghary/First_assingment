@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 
 void main(List<String> args) {
-  runApp(myApp());
+  runApp(const myApp());
 }
 
 class myApp extends StatefulWidget {
